@@ -40,3 +40,4 @@ C:\GitRepos\DockerTest\DockerTest\DockerTest\obj\Debug\net7.0\DockerTest.csproj.
 C:\GitRepos\DockerTest\DockerTest\DockerTest\bin\Debug\net7.0\Npgsql.dll
 C:\GitRepos\DockerTest\DockerTest\DockerTest\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\GitRepos\DockerTest\DockerTest\DockerTest\obj\Debug\net7.0\DockerTest.csproj.AssemblyReference.cache
+C:\GitRepos\DockerTest\DockerTest\DockerTest\obj\Debug\net7.0\DockerTest.sourcelink.json
